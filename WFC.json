@@ -1,1011 +1,2522 @@
-{
-    "Meta Data": {
-        "1. Information": "Daily Time Series with Splits and Dividend Events",
-        "2. Symbol": "WFC",
-        "3. Last Refreshed": "2020-01-31",
-        "4. Output Size": "Compact",
-        "5. Time Zone": "US/Eastern"
-    },
-    "Time Series (Daily)": {
-        "2020-01-31": {
-            "1. open": "47.4200",
-            "2. high": "47.4500",
-            "3. low": "46.7500",
-            "4. close": "46.9400",
-            "5. adjusted close": "46.9400",
-            "6. volume": "21252596",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-30": {
-            "1. open": "47.1700",
-            "2. high": "47.9500",
-            "3. low": "47.0400",
-            "4. close": "47.9100",
-            "5. adjusted close": "47.9100",
-            "6. volume": "14758197",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-29": {
-            "1. open": "47.4200",
-            "2. high": "47.8950",
-            "3. low": "47.2600",
-            "4. close": "47.2700",
-            "5. adjusted close": "47.2700",
-            "6. volume": "16149925",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-28": {
-            "1. open": "47.5100",
-            "2. high": "47.7900",
-            "3. low": "47.2800",
-            "4. close": "47.3700",
-            "5. adjusted close": "47.3700",
-            "6. volume": "16670891",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-27": {
-            "1. open": "46.8900",
-            "2. high": "47.4150",
-            "3. low": "46.7400",
-            "4. close": "47.1000",
-            "5. adjusted close": "47.1000",
-            "6. volume": "18152707",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-24": {
-            "1. open": "48.1900",
-            "2. high": "48.2100",
-            "3. low": "47.1800",
-            "4. close": "47.5700",
-            "5. adjusted close": "47.5700",
-            "6. volume": "21229039",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-23": {
-            "1. open": "48.3900",
-            "2. high": "48.4500",
-            "3. low": "47.9800",
-            "4. close": "48.2200",
-            "5. adjusted close": "48.2200",
-            "6. volume": "17294744",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-22": {
-            "1. open": "49.0300",
-            "2. high": "49.0900",
-            "3. low": "48.2900",
-            "4. close": "48.5600",
-            "5. adjusted close": "48.5600",
-            "6. volume": "20365711",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-21": {
-            "1. open": "49.0900",
-            "2. high": "49.8800",
-            "3. low": "48.8000",
-            "4. close": "48.9400",
-            "5. adjusted close": "48.9400",
-            "6. volume": "30855356",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-17": {
-            "1. open": "49.3700",
-            "2. high": "49.4200",
-            "3. low": "48.5300",
-            "4. close": "49.1800",
-            "5. adjusted close": "49.1800",
-            "6. volume": "29667072",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-16": {
-            "1. open": "48.4600",
-            "2. high": "49.3200",
-            "3. low": "47.8400",
-            "4. close": "49.2500",
-            "5. adjusted close": "49.2500",
-            "6. volume": "37015079",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-15": {
-            "1. open": "48.8300",
-            "2. high": "48.8400",
-            "3. low": "47.9800",
-            "4. close": "48.3200",
-            "5. adjusted close": "48.3200",
-            "6. volume": "47117489",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-14": {
-            "1. open": "50.2300",
-            "2. high": "50.7400",
-            "3. low": "49.2500",
-            "4. close": "49.3000",
-            "5. adjusted close": "49.3000",
-            "6. volume": "56667311",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-13": {
-            "1. open": "52.5000",
-            "2. high": "52.5000",
-            "3. low": "51.8300",
-            "4. close": "52.1100",
-            "5. adjusted close": "52.1100",
-            "6. volume": "25188956",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-10": {
-            "1. open": "52.7900",
-            "2. high": "52.9000",
-            "3. low": "52.4800",
-            "4. close": "52.5000",
-            "5. adjusted close": "52.5000",
-            "6. volume": "13777332",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-09": {
-            "1. open": "53.2000",
-            "2. high": "53.2000",
-            "3. low": "52.4800",
-            "4. close": "52.7300",
-            "5. adjusted close": "52.7300",
-            "6. volume": "20817389",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-08": {
-            "1. open": "52.8400",
-            "2. high": "53.3300",
-            "3. low": "52.7950",
-            "4. close": "52.8200",
-            "5. adjusted close": "52.8200",
-            "6. volume": "16585319",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-07": {
-            "1. open": "53.0500",
-            "2. high": "53.0500",
-            "3. low": "52.4700",
-            "4. close": "52.6600",
-            "5. adjusted close": "52.6600",
-            "6. volume": "13278793",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-06": {
-            "1. open": "52.7400",
-            "2. high": "53.2000",
-            "3. low": "52.7200",
-            "4. close": "53.1000",
-            "5. adjusted close": "53.1000",
-            "6. volume": "13164662",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-03": {
-            "1. open": "53.1100",
-            "2. high": "53.6150",
-            "3. low": "52.9000",
-            "4. close": "53.4200",
-            "5. adjusted close": "53.4200",
-            "6. volume": "15607725",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2020-01-02": {
-            "1. open": "53.8500",
-            "2. high": "54.0350",
-            "3. low": "53.5100",
-            "4. close": "53.7500",
-            "5. adjusted close": "53.7500",
-            "6. volume": "16803108",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-31": {
-            "1. open": "53.5300",
-            "2. high": "53.8200",
-            "3. low": "53.4600",
-            "4. close": "53.8000",
-            "5. adjusted close": "53.8000",
-            "6. volume": "12561014",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-30": {
-            "1. open": "54.1700",
-            "2. high": "54.2600",
-            "3. low": "53.5000",
-            "4. close": "53.6000",
-            "5. adjusted close": "53.6000",
-            "6. volume": "10899823",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-27": {
-            "1. open": "54.2900",
-            "2. high": "54.3200",
-            "3. low": "53.8650",
-            "4. close": "53.9200",
-            "5. adjusted close": "53.9200",
-            "6. volume": "9891475",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-26": {
-            "1. open": "54.0500",
-            "2. high": "54.3900",
-            "3. low": "53.9500",
-            "4. close": "54.1500",
-            "5. adjusted close": "54.1500",
-            "6. volume": "12517133",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-24": {
-            "1. open": "53.9500",
-            "2. high": "54.0400",
-            "3. low": "53.7350",
-            "4. close": "53.8200",
-            "5. adjusted close": "53.8200",
-            "6. volume": "4635459",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-23": {
-            "1. open": "53.3400",
-            "2. high": "54.0000",
-            "3. low": "53.2500",
-            "4. close": "53.8100",
-            "5. adjusted close": "53.8100",
-            "6. volume": "17637704",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-20": {
-            "1. open": "54.0500",
-            "2. high": "54.0500",
-            "3. low": "53.0700",
-            "4. close": "53.3300",
-            "5. adjusted close": "53.3300",
-            "6. volume": "66317512",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-19": {
-            "1. open": "53.7400",
-            "2. high": "53.8300",
-            "3. low": "53.4200",
-            "4. close": "53.6300",
-            "5. adjusted close": "53.6300",
-            "6. volume": "18133326",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-18": {
-            "1. open": "54.4600",
-            "2. high": "54.4600",
-            "3. low": "53.6300",
-            "4. close": "53.6700",
-            "5. adjusted close": "53.6700",
-            "6. volume": "18856416",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-17": {
-            "1. open": "54.1100",
-            "2. high": "54.5100",
-            "3. low": "53.9900",
-            "4. close": "54.3400",
-            "5. adjusted close": "54.3400",
-            "6. volume": "16723314",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-16": {
-            "1. open": "54.2400",
-            "2. high": "54.5600",
-            "3. low": "54.2150",
-            "4. close": "54.2200",
-            "5. adjusted close": "54.2200",
-            "6. volume": "19793450",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-13": {
-            "1. open": "54.0500",
-            "2. high": "54.4200",
-            "3. low": "53.4300",
-            "4. close": "53.7900",
-            "5. adjusted close": "53.7900",
-            "6. volume": "19179280",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-12": {
-            "1. open": "53.3700",
-            "2. high": "54.5500",
-            "3. low": "53.1000",
-            "4. close": "54.3600",
-            "5. adjusted close": "54.3600",
-            "6. volume": "19118519",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-11": {
-            "1. open": "53.7400",
-            "2. high": "53.9800",
-            "3. low": "53.0700",
-            "4. close": "53.1700",
-            "5. adjusted close": "53.1700",
-            "6. volume": "16657649",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-10": {
-            "1. open": "53.4900",
-            "2. high": "53.8700",
-            "3. low": "53.3801",
-            "4. close": "53.6900",
-            "5. adjusted close": "53.6900",
-            "6. volume": "15959113",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-09": {
-            "1. open": "54.1700",
-            "2. high": "54.5450",
-            "3. low": "53.9100",
-            "4. close": "53.9200",
-            "5. adjusted close": "53.9200",
-            "6. volume": "15070628",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-06": {
-            "1. open": "53.8600",
-            "2. high": "54.4100",
-            "3. low": "53.6900",
-            "4. close": "54.3700",
-            "5. adjusted close": "54.3700",
-            "6. volume": "18325748",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-05": {
-            "1. open": "53.4100",
-            "2. high": "53.5310",
-            "3. low": "53.1000",
-            "4. close": "53.2300",
-            "5. adjusted close": "53.2300",
-            "6. volume": "13499699",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-04": {
-            "1. open": "52.6000",
-            "2. high": "53.4800",
-            "3. low": "52.5350",
-            "4. close": "53.2400",
-            "5. adjusted close": "53.2400",
-            "6. volume": "18867396",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-03": {
-            "1. open": "53.0100",
-            "2. high": "53.0500",
-            "3. low": "52.1650",
-            "4. close": "52.5800",
-            "5. adjusted close": "52.5800",
-            "6. volume": "25759600",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-12-02": {
-            "1. open": "54.3100",
-            "2. high": "54.4400",
-            "3. low": "53.5500",
-            "4. close": "53.6200",
-            "5. adjusted close": "53.6200",
-            "6. volume": "20252622",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-29": {
-            "1. open": "54.0700",
-            "2. high": "54.7500",
-            "3. low": "54.0700",
-            "4. close": "54.4600",
-            "5. adjusted close": "54.4600",
-            "6. volume": "10508630",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-27": {
-            "1. open": "54.1500",
-            "2. high": "54.3950",
-            "3. low": "54.0100",
-            "4. close": "54.3400",
-            "5. adjusted close": "54.3400",
-            "6. volume": "16352886",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-26": {
-            "1. open": "54.1100",
-            "2. high": "54.1200",
-            "3. low": "53.7300",
-            "4. close": "53.8100",
-            "5. adjusted close": "53.8100",
-            "6. volume": "18085380",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-25": {
-            "1. open": "54.5300",
-            "2. high": "54.5300",
-            "3. low": "54.0400",
-            "4. close": "54.2100",
-            "5. adjusted close": "54.2100",
-            "6. volume": "15558574",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-22": {
-            "1. open": "53.9000",
-            "2. high": "54.3500",
-            "3. low": "53.8050",
-            "4. close": "54.2800",
-            "5. adjusted close": "54.2800",
-            "6. volume": "13823401",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-21": {
-            "1. open": "53.8400",
-            "2. high": "53.9300",
-            "3. low": "53.3400",
-            "4. close": "53.5600",
-            "5. adjusted close": "53.5600",
-            "6. volume": "16183535",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-20": {
-            "1. open": "53.7300",
-            "2. high": "53.8600",
-            "3. low": "53.2500",
-            "4. close": "53.5400",
-            "5. adjusted close": "53.5400",
-            "6. volume": "14994663",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-19": {
-            "1. open": "54.1000",
-            "2. high": "54.3290",
-            "3. low": "53.8700",
-            "4. close": "54.0300",
-            "5. adjusted close": "54.0300",
-            "6. volume": "14434065",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-18": {
-            "1. open": "53.8400",
-            "2. high": "54.1100",
-            "3. low": "53.6500",
-            "4. close": "54.0000",
-            "5. adjusted close": "54.0000",
-            "6. volume": "14374632",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-15": {
-            "1. open": "53.7800",
-            "2. high": "53.9400",
-            "3. low": "53.4300",
-            "4. close": "53.8000",
-            "5. adjusted close": "53.8000",
-            "6. volume": "15225133",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-14": {
-            "1. open": "53.2200",
-            "2. high": "53.5600",
-            "3. low": "53.1000",
-            "4. close": "53.4900",
-            "5. adjusted close": "53.4900",
-            "6. volume": "16490809",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-13": {
-            "1. open": "53.8100",
-            "2. high": "53.8969",
-            "3. low": "53.2100",
-            "4. close": "53.2900",
-            "5. adjusted close": "53.2900",
-            "6. volume": "16937211",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-12": {
-            "1. open": "53.7500",
-            "2. high": "54.2400",
-            "3. low": "53.6200",
-            "4. close": "54.2200",
-            "5. adjusted close": "54.2200",
-            "6. volume": "15187629",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-11": {
-            "1. open": "53.7900",
-            "2. high": "54.1400",
-            "3. low": "53.7300",
-            "4. close": "54.0500",
-            "5. adjusted close": "54.0500",
-            "6. volume": "10659438",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-08": {
-            "1. open": "53.8300",
-            "2. high": "54.2300",
-            "3. low": "53.5600",
-            "4. close": "54.1000",
-            "5. adjusted close": "54.1000",
-            "6. volume": "14721732",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-07": {
-            "1. open": "53.7800",
-            "2. high": "54.4000",
-            "3. low": "53.7800",
-            "4. close": "54.0000",
-            "5. adjusted close": "54.0000",
-            "6. volume": "23447924",
-            "7. dividend amount": "0.5100",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-06": {
-            "1. open": "53.2900",
-            "2. high": "53.8400",
-            "3. low": "53.1700",
-            "4. close": "53.8000",
-            "5. adjusted close": "53.2966",
-            "6. volume": "22046464",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-05": {
-            "1. open": "52.7400",
-            "2. high": "53.5000",
-            "3. low": "52.7400",
-            "4. close": "53.3000",
-            "5. adjusted close": "52.8013",
-            "6. volume": "25962354",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-04": {
-            "1. open": "52.5800",
-            "2. high": "52.7950",
-            "3. low": "52.2400",
-            "4. close": "52.7200",
-            "5. adjusted close": "52.2267",
-            "6. volume": "17556415",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-11-01": {
-            "1. open": "52.1300",
-            "2. high": "52.2850",
-            "3. low": "51.9100",
-            "4. close": "52.1800",
-            "5. adjusted close": "51.6918",
-            "6. volume": "16357910",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-31": {
-            "1. open": "51.7700",
-            "2. high": "52.0300",
-            "3. low": "51.1450",
-            "4. close": "51.6300",
-            "5. adjusted close": "51.1469",
-            "6. volume": "18814737",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-30": {
-            "1. open": "51.8800",
-            "2. high": "52.2750",
-            "3. low": "51.6200",
-            "4. close": "52.0300",
-            "5. adjusted close": "51.5432",
-            "6. volume": "16155272",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-29": {
-            "1. open": "51.5000",
-            "2. high": "52.3600",
-            "3. low": "51.5000",
-            "4. close": "52.1700",
-            "5. adjusted close": "51.6819",
-            "6. volume": "21062475",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-28": {
-            "1. open": "51.9400",
-            "2. high": "52.0450",
-            "3. low": "51.5650",
-            "4. close": "51.6500",
-            "5. adjusted close": "51.1668",
-            "6. volume": "23913538",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-25": {
-            "1. open": "51.0800",
-            "2. high": "51.7300",
-            "3. low": "51.0000",
-            "4. close": "51.5700",
-            "5. adjusted close": "51.0875",
-            "6. volume": "17430753",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-24": {
-            "1. open": "50.6600",
-            "2. high": "51.2000",
-            "3. low": "50.6600",
-            "4. close": "51.1000",
-            "5. adjusted close": "50.6219",
-            "6. volume": "17722408",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-23": {
-            "1. open": "50.7200",
-            "2. high": "50.9700",
-            "3. low": "50.5700",
-            "4. close": "50.9300",
-            "5. adjusted close": "50.4535",
-            "6. volume": "15152082",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-22": {
-            "1. open": "50.4400",
-            "2. high": "51.0200",
-            "3. low": "50.2300",
-            "4. close": "50.6200",
-            "5. adjusted close": "50.1464",
-            "6. volume": "19471547",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-21": {
-            "1. open": "50.2800",
-            "2. high": "50.5000",
-            "3. low": "50.1750",
-            "4. close": "50.4600",
-            "5. adjusted close": "49.9879",
-            "6. volume": "20378968",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-18": {
-            "1. open": "49.3500",
-            "2. high": "50.2200",
-            "3. low": "49.3200",
-            "4. close": "49.9700",
-            "5. adjusted close": "49.5025",
-            "6. volume": "21199496",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-17": {
-            "1. open": "49.9800",
-            "2. high": "50.1700",
-            "3. low": "49.4800",
-            "4. close": "49.6100",
-            "5. adjusted close": "49.1458",
-            "6. volume": "20588250",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-16": {
-            "1. open": "50.0400",
-            "2. high": "50.2800",
-            "3. low": "49.4500",
-            "4. close": "49.5900",
-            "5. adjusted close": "49.1260",
-            "6. volume": "23759070",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-15": {
-            "1. open": "49.2800",
-            "2. high": "51.2500",
-            "3. low": "48.7800",
-            "4. close": "50.1100",
-            "5. adjusted close": "49.6412",
-            "6. volume": "39502542",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-14": {
-            "1. open": "49.0900",
-            "2. high": "49.4500",
-            "3. low": "48.9800",
-            "4. close": "49.2700",
-            "5. adjusted close": "48.8090",
-            "6. volume": "17073582",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-11": {
-            "1. open": "49.4600",
-            "2. high": "49.9200",
-            "3. low": "49.1500",
-            "4. close": "49.2100",
-            "5. adjusted close": "48.7496",
-            "6. volume": "23085705",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-10": {
-            "1. open": "48.3300",
-            "2. high": "49.0700",
-            "3. low": "48.1600",
-            "4. close": "48.6500",
-            "5. adjusted close": "48.1948",
-            "6. volume": "18405269",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-09": {
-            "1. open": "48.1700",
-            "2. high": "48.4200",
-            "3. low": "48.0800",
-            "4. close": "48.1500",
-            "5. adjusted close": "47.6995",
-            "6. volume": "13530693",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-08": {
-            "1. open": "48.2500",
-            "2. high": "48.3500",
-            "3. low": "47.5400",
-            "4. close": "47.8200",
-            "5. adjusted close": "47.3726",
-            "6. volume": "19833507",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-07": {
-            "1. open": "48.9500",
-            "2. high": "49.2900",
-            "3. low": "48.7500",
-            "4. close": "48.8100",
-            "5. adjusted close": "48.3533",
-            "6. volume": "15734706",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-04": {
-            "1. open": "48.6600",
-            "2. high": "49.2500",
-            "3. low": "48.5300",
-            "4. close": "49.2100",
-            "5. adjusted close": "48.7496",
-            "6. volume": "15946231",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-03": {
-            "1. open": "48.3000",
-            "2. high": "48.5050",
-            "3. low": "47.3230",
-            "4. close": "48.4800",
-            "5. adjusted close": "48.0264",
-            "6. volume": "20458388",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-02": {
-            "1. open": "48.7200",
-            "2. high": "49.0400",
-            "3. low": "48.3700",
-            "4. close": "48.4700",
-            "5. adjusted close": "48.0165",
-            "6. volume": "24806245",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-10-01": {
-            "1. open": "50.6500",
-            "2. high": "50.7800",
-            "3. low": "49.0000",
-            "4. close": "49.0600",
-            "5. adjusted close": "48.6010",
-            "6. volume": "27402111",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-09-30": {
-            "1. open": "50.7700",
-            "2. high": "50.8500",
-            "3. low": "50.0550",
-            "4. close": "50.4400",
-            "5. adjusted close": "49.9681",
-            "6. volume": "28886825",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-09-27": {
-            "1. open": "50.3600",
-            "2. high": "51.4100",
-            "3. low": "50.2500",
-            "4. close": "50.7100",
-            "5. adjusted close": "50.2356",
-            "6. volume": "59465716",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-09-26": {
-            "1. open": "49.2500",
-            "2. high": "49.3700",
-            "3. low": "48.8200",
-            "4. close": "48.8700",
-            "5. adjusted close": "48.4128",
-            "6. volume": "20056588",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-09-25": {
-            "1. open": "48.7300",
-            "2. high": "49.5400",
-            "3. low": "48.6500",
-            "4. close": "49.2600",
-            "5. adjusted close": "48.7991",
-            "6. volume": "21363849",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-09-24": {
-            "1. open": "48.9800",
-            "2. high": "49.2200",
-            "3. low": "48.4700",
-            "4. close": "48.6500",
-            "5. adjusted close": "48.1948",
-            "6. volume": "21854120",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-09-23": {
-            "1. open": "48.3200",
-            "2. high": "49.0850",
-            "3. low": "48.3100",
-            "4. close": "48.9600",
-            "5. adjusted close": "48.5019",
-            "6. volume": "21329968",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-09-20": {
-            "1. open": "49.0700",
-            "2. high": "49.3000",
-            "3. low": "48.6050",
-            "4. close": "48.6300",
-            "5. adjusted close": "48.1750",
-            "6. volume": "30448100",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-09-19": {
-            "1. open": "48.9900",
-            "2. high": "49.3050",
-            "3. low": "48.8700",
-            "4. close": "48.9100",
-            "5. adjusted close": "48.4524",
-            "6. volume": "17052734",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-09-18": {
-            "1. open": "48.6300",
-            "2. high": "49.2100",
-            "3. low": "48.4300",
-            "4. close": "48.9300",
-            "5. adjusted close": "48.4722",
-            "6. volume": "20545811",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-09-17": {
-            "1. open": "48.7000",
-            "2. high": "48.8550",
-            "3. low": "48.3100",
-            "4. close": "48.7600",
-            "5. adjusted close": "48.3038",
-            "6. volume": "18458667",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-09-16": {
-            "1. open": "48.4600",
-            "2. high": "49.0000",
-            "3. low": "48.4000",
-            "4. close": "48.9800",
-            "5. adjusted close": "48.5217",
-            "6. volume": "17732336",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-09-13": {
-            "1. open": "49.0100",
-            "2. high": "49.3600",
-            "3. low": "48.6600",
-            "4. close": "48.9200",
-            "5. adjusted close": "48.4623",
-            "6. volume": "25140832",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-09-12": {
-            "1. open": "48.5200",
-            "2. high": "49.0750",
-            "3. low": "48.2200",
-            "4. close": "48.6500",
-            "5. adjusted close": "48.1948",
-            "6. volume": "24305223",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-09-11": {
-            "1. open": "48.2900",
-            "2. high": "48.9800",
-            "3. low": "47.7850",
-            "4. close": "48.8500",
-            "5. adjusted close": "48.3930",
-            "6. volume": "19183399",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        },
-        "2019-09-10": {
-            "1. open": "48.0700",
-            "2. high": "48.9250",
-            "3. low": "48.0700",
-            "4. close": "48.3100",
-            "5. adjusted close": "47.8580",
-            "6. volume": "25822434",
-            "7. dividend amount": "0.0000",
-            "8. split coefficient": "1.0000"
-        }
-    }
-}
+[
+  {
+    "Symbol": "WFC",
+    "Date": "2/1/2019",
+    "Open": 49,
+    "High": 49.080002,
+    "Low": 48.790001,
+    "Close": 48.91,
+    "Adj Close": 47.448318,
+    "Volume": 21123500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/4/2019",
+    "Open": 48.849998,
+    "High": 49.150002,
+    "Low": 48.709999,
+    "Close": 49.060001,
+    "Adj Close": 47.593838,
+    "Volume": 17547800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/5/2019",
+    "Open": 49.27,
+    "High": 49.32,
+    "Low": 48.75,
+    "Close": 49.27,
+    "Adj Close": 47.797562,
+    "Volume": 14784900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/6/2019",
+    "Open": 49.09,
+    "High": 49.529999,
+    "Low": 49.07,
+    "Close": 49.220001,
+    "Adj Close": 47.749054,
+    "Volume": 12145700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/7/2019",
+    "Open": 49.09,
+    "High": 49.299999,
+    "Low": 47.709999,
+    "Close": 48.080002,
+    "Adj Close": 46.643124,
+    "Volume": 24189700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/8/2019",
+    "Open": 47.939999,
+    "High": 48.040001,
+    "Low": 47.060001,
+    "Close": 47.650002,
+    "Adj Close": 46.225975,
+    "Volume": 20641200
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/11/2019",
+    "Open": 47.869999,
+    "High": 47.959999,
+    "Low": 47.380001,
+    "Close": 47.650002,
+    "Adj Close": 46.225975,
+    "Volume": 15995900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/12/2019",
+    "Open": 48.009998,
+    "High": 49.459999,
+    "Low": 48.009998,
+    "Close": 49.049999,
+    "Adj Close": 47.584133,
+    "Volume": 22033000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/13/2019",
+    "Open": 49.240002,
+    "High": 49.709999,
+    "Low": 48.889999,
+    "Close": 49.02,
+    "Adj Close": 47.555031,
+    "Volume": 13770900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/14/2019",
+    "Open": 48.630001,
+    "High": 48.91,
+    "Low": 48.029999,
+    "Close": 48.52,
+    "Adj Close": 47.069973,
+    "Volume": 16456500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/15/2019",
+    "Open": 49.09,
+    "High": 49.419998,
+    "Low": 48.490002,
+    "Close": 49.220001,
+    "Adj Close": 47.749054,
+    "Volume": 19346200
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/19/2019",
+    "Open": 49.029999,
+    "High": 49.619999,
+    "Low": 48.82,
+    "Close": 49.380001,
+    "Adj Close": 47.904274,
+    "Volume": 15121700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/20/2019",
+    "Open": 49.43,
+    "High": 49.880001,
+    "Low": 49.299999,
+    "Close": 49.810001,
+    "Adj Close": 48.321419,
+    "Volume": 16742600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/21/2019",
+    "Open": 49.759998,
+    "High": 49.889999,
+    "Low": 49.369999,
+    "Close": 49.560001,
+    "Adj Close": 48.078896,
+    "Volume": 16938800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/22/2019",
+    "Open": 49.599998,
+    "High": 49.75,
+    "Low": 48.950001,
+    "Close": 49.02,
+    "Adj Close": 47.555031,
+    "Volume": 15848200
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/25/2019",
+    "Open": 49.259998,
+    "High": 50.23,
+    "Low": 49.25,
+    "Close": 49.66,
+    "Adj Close": 48.175903,
+    "Volume": 16564100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/26/2019",
+    "Open": 49.490002,
+    "High": 50.139999,
+    "Low": 49.34,
+    "Close": 49.59,
+    "Adj Close": 48.107998,
+    "Volume": 16997800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/27/2019",
+    "Open": 49.59,
+    "High": 50.029999,
+    "Low": 49.360001,
+    "Close": 49.900002,
+    "Adj Close": 48.40873,
+    "Volume": 17455000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "2/28/2019",
+    "Open": 49.98,
+    "High": 50.130001,
+    "Low": 49.73,
+    "Close": 49.889999,
+    "Adj Close": 48.399033,
+    "Volume": 17786600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/1/2019",
+    "Open": 50.23,
+    "High": 50.84,
+    "Low": 49.869999,
+    "Close": 50.029999,
+    "Adj Close": 48.534847,
+    "Volume": 19051400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/4/2019",
+    "Open": 50.290001,
+    "High": 50.900002,
+    "Low": 49.689999,
+    "Close": 50.110001,
+    "Adj Close": 48.612453,
+    "Volume": 16697000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/5/2019",
+    "Open": 50.029999,
+    "High": 50.049999,
+    "Low": 49.330002,
+    "Close": 49.889999,
+    "Adj Close": 48.399033,
+    "Volume": 14235400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/6/2019",
+    "Open": 49.970001,
+    "High": 50.220001,
+    "Low": 49.68,
+    "Close": 49.82,
+    "Adj Close": 48.331123,
+    "Volume": 14211000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/7/2019",
+    "Open": 49.709999,
+    "High": 49.849998,
+    "Low": 49.290001,
+    "Close": 49.68,
+    "Adj Close": 48.195309,
+    "Volume": 19047300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/8/2019",
+    "Open": 49.259998,
+    "High": 49.900002,
+    "Low": 49.169998,
+    "Close": 49.799999,
+    "Adj Close": 48.311718,
+    "Volume": 17400000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/11/2019",
+    "Open": 50,
+    "High": 50.099998,
+    "Low": 49.630001,
+    "Close": 49.759998,
+    "Adj Close": 48.272915,
+    "Volume": 19471500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/12/2019",
+    "Open": 49.779999,
+    "High": 50.049999,
+    "Low": 49.540001,
+    "Close": 49.650002,
+    "Adj Close": 48.166206,
+    "Volume": 18299300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/13/2019",
+    "Open": 49.869999,
+    "High": 50.080002,
+    "Low": 49.610001,
+    "Close": 49.919998,
+    "Adj Close": 48.428131,
+    "Volume": 21647300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/14/2019",
+    "Open": 50.07,
+    "High": 50.790001,
+    "Low": 49.93,
+    "Close": 50.349998,
+    "Adj Close": 48.845284,
+    "Volume": 20160700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/15/2019",
+    "Open": 50.220001,
+    "High": 50.799999,
+    "Low": 50,
+    "Close": 50.66,
+    "Adj Close": 49.146023,
+    "Volume": 46117300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/18/2019",
+    "Open": 50.84,
+    "High": 52.07,
+    "Low": 50.830002,
+    "Close": 51.73,
+    "Adj Close": 50.18404,
+    "Volume": 23843300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/19/2019",
+    "Open": 52.419998,
+    "High": 52.419998,
+    "Low": 51.34,
+    "Close": 51.41,
+    "Adj Close": 49.873608,
+    "Volume": 19911900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/20/2019",
+    "Open": 51.189999,
+    "High": 51.57,
+    "Low": 50.330002,
+    "Close": 50.400002,
+    "Adj Close": 48.893791,
+    "Volume": 20632400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/21/2019",
+    "Open": 49.98,
+    "High": 50.139999,
+    "Low": 49.169998,
+    "Close": 49.860001,
+    "Adj Close": 48.36993,
+    "Volume": 24132800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/22/2019",
+    "Open": 49.25,
+    "High": 49.470001,
+    "Low": 48,
+    "Close": 48.310001,
+    "Adj Close": 46.866249,
+    "Volume": 27975800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/25/2019",
+    "Open": 48.419998,
+    "High": 48.889999,
+    "Low": 47.849998,
+    "Close": 48.080002,
+    "Adj Close": 46.643124,
+    "Volume": 17227600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/26/2019",
+    "Open": 48.52,
+    "High": 49.040001,
+    "Low": 48.41,
+    "Close": 49.009998,
+    "Adj Close": 47.545326,
+    "Volume": 16989600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/27/2019",
+    "Open": 48.939999,
+    "High": 49.189999,
+    "Low": 48.450001,
+    "Close": 48.77,
+    "Adj Close": 47.312504,
+    "Volume": 16912000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/28/2019",
+    "Open": 48.73,
+    "High": 49.220001,
+    "Low": 48.349998,
+    "Close": 49.09,
+    "Adj Close": 47.62294,
+    "Volume": 15881600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "3/29/2019",
+    "Open": 49.799999,
+    "High": 49.799999,
+    "Low": 47.799999,
+    "Close": 48.32,
+    "Adj Close": 46.87595,
+    "Volume": 53590800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/1/2019",
+    "Open": 48.43,
+    "High": 48.900002,
+    "Low": 48.169998,
+    "Close": 48.810001,
+    "Adj Close": 47.351307,
+    "Volume": 42015500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/2/2019",
+    "Open": 48.57,
+    "High": 48.880001,
+    "Low": 47.959999,
+    "Close": 48.209999,
+    "Adj Close": 46.769234,
+    "Volume": 35393600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/3/2019",
+    "Open": 48.470001,
+    "High": 48.869999,
+    "Low": 48.080002,
+    "Close": 48.860001,
+    "Adj Close": 47.399811,
+    "Volume": 30366300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/4/2019",
+    "Open": 48.950001,
+    "High": 49.68,
+    "Low": 48.880001,
+    "Close": 49.169998,
+    "Adj Close": 47.700546,
+    "Volume": 19260100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/5/2019",
+    "Open": 49.259998,
+    "High": 49.41,
+    "Low": 48.599998,
+    "Close": 48.779999,
+    "Adj Close": 47.322205,
+    "Volume": 23734900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/8/2019",
+    "Open": 48.639999,
+    "High": 49.099998,
+    "Low": 48.580002,
+    "Close": 48.880001,
+    "Adj Close": 47.41922,
+    "Volume": 18875200
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/9/2019",
+    "Open": 48.68,
+    "High": 48.700001,
+    "Low": 48.02,
+    "Close": 48.139999,
+    "Adj Close": 46.701332,
+    "Volume": 22903500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/10/2019",
+    "Open": 48.080002,
+    "High": 48.189999,
+    "Low": 47.400002,
+    "Close": 47.790001,
+    "Adj Close": 46.36179,
+    "Volume": 30977800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/11/2019",
+    "Open": 47.970001,
+    "High": 48.259998,
+    "Low": 47.380001,
+    "Close": 47.740002,
+    "Adj Close": 46.313286,
+    "Volume": 33662700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/12/2019",
+    "Open": 47.75,
+    "High": 48.82,
+    "Low": 46.060001,
+    "Close": 46.490002,
+    "Adj Close": 45.100643,
+    "Volume": 70271400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/15/2019",
+    "Open": 45.869999,
+    "High": 47.060001,
+    "Low": 45.66,
+    "Close": 46.77,
+    "Adj Close": 45.372272,
+    "Volume": 34954000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/16/2019",
+    "Open": 46.880001,
+    "High": 47.869999,
+    "Low": 46.869999,
+    "Close": 47.650002,
+    "Adj Close": 46.225975,
+    "Volume": 25217100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/17/2019",
+    "Open": 47.959999,
+    "High": 47.959999,
+    "Low": 46.919998,
+    "Close": 47.549999,
+    "Adj Close": 46.128963,
+    "Volume": 25144000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/18/2019",
+    "Open": 47.439999,
+    "High": 47.869999,
+    "Low": 47.119999,
+    "Close": 47.580002,
+    "Adj Close": 46.158066,
+    "Volume": 22416800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/22/2019",
+    "Open": 47.41,
+    "High": 47.5,
+    "Low": 47.099998,
+    "Close": 47.259998,
+    "Adj Close": 45.84763,
+    "Volume": 15972600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/23/2019",
+    "Open": 47.200001,
+    "High": 47.439999,
+    "Low": 46.950001,
+    "Close": 47.349998,
+    "Adj Close": 45.93494,
+    "Volume": 16434300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/24/2019",
+    "Open": 47.060001,
+    "High": 47.689999,
+    "Low": 47.029999,
+    "Close": 47.48,
+    "Adj Close": 46.06105,
+    "Volume": 17831800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/25/2019",
+    "Open": 47.169998,
+    "High": 47.959999,
+    "Low": 46.91,
+    "Close": 47.509998,
+    "Adj Close": 46.090157,
+    "Volume": 23042800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/26/2019",
+    "Open": 47.52,
+    "High": 47.98,
+    "Low": 47.400002,
+    "Close": 47.959999,
+    "Adj Close": 46.526711,
+    "Volume": 13035500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/29/2019",
+    "Open": 47.970001,
+    "High": 48.790001,
+    "Low": 47.959999,
+    "Close": 48.27,
+    "Adj Close": 46.827446,
+    "Volume": 16918700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "4/30/2019",
+    "Open": 48.349998,
+    "High": 48.560001,
+    "Low": 48.110001,
+    "Close": 48.41,
+    "Adj Close": 46.963261,
+    "Volume": 18525100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/1/2019",
+    "Open": 48.32,
+    "High": 48.849998,
+    "Low": 47.990002,
+    "Close": 48.23,
+    "Adj Close": 46.788639,
+    "Volume": 17542100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/2/2019",
+    "Open": 48.349998,
+    "High": 48.490002,
+    "Low": 47.849998,
+    "Close": 48.299999,
+    "Adj Close": 46.856544,
+    "Volume": 16883000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/3/2019",
+    "Open": 48.52,
+    "High": 48.77,
+    "Low": 48.349998,
+    "Close": 48.650002,
+    "Adj Close": 47.196091,
+    "Volume": 16571300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/6/2019",
+    "Open": 47.990002,
+    "High": 48.73,
+    "Low": 47.880001,
+    "Close": 48.43,
+    "Adj Close": 46.982662,
+    "Volume": 19279900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/7/2019",
+    "Open": 48.049999,
+    "High": 48.16,
+    "Low": 46.91,
+    "Close": 47.169998,
+    "Adj Close": 45.760315,
+    "Volume": 23919100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/8/2019",
+    "Open": 47.060001,
+    "High": 47.310001,
+    "Low": 46.810001,
+    "Close": 47,
+    "Adj Close": 45.595398,
+    "Volume": 19814400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/9/2019",
+    "Open": 46,
+    "High": 46.830002,
+    "Low": 45.779999,
+    "Close": 46.740002,
+    "Adj Close": 45.781502,
+    "Volume": 23246900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/10/2019",
+    "Open": 46.41,
+    "High": 47.369999,
+    "Low": 46.110001,
+    "Close": 47.150002,
+    "Adj Close": 46.183098,
+    "Volume": 19983400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/13/2019",
+    "Open": 46.279999,
+    "High": 46.990002,
+    "Low": 46.259998,
+    "Close": 46.330002,
+    "Adj Close": 45.379913,
+    "Volume": 23304700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/14/2019",
+    "Open": 46.380001,
+    "High": 46.93,
+    "Low": 45.98,
+    "Close": 46.490002,
+    "Adj Close": 45.536633,
+    "Volume": 21267600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/15/2019",
+    "Open": 46.02,
+    "High": 46.349998,
+    "Low": 45.490002,
+    "Close": 45.84,
+    "Adj Close": 44.89996,
+    "Volume": 20123300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/16/2019",
+    "Open": 45.990002,
+    "High": 46.529999,
+    "Low": 45.759998,
+    "Close": 45.900002,
+    "Adj Close": 44.958733,
+    "Volume": 20764100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/17/2019",
+    "Open": 45.439999,
+    "High": 46.23,
+    "Low": 45.41,
+    "Close": 45.700001,
+    "Adj Close": 44.762829,
+    "Volume": 22273500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/20/2019",
+    "Open": 45.619999,
+    "High": 45.91,
+    "Low": 45.299999,
+    "Close": 45.450001,
+    "Adj Close": 44.517956,
+    "Volume": 18854000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/21/2019",
+    "Open": 45.619999,
+    "High": 46.360001,
+    "Low": 45.52,
+    "Close": 46.330002,
+    "Adj Close": 45.379913,
+    "Volume": 18416300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/22/2019",
+    "Open": 46.07,
+    "High": 46.310001,
+    "Low": 45.959999,
+    "Close": 46.099998,
+    "Adj Close": 45.154625,
+    "Volume": 13155000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/23/2019",
+    "Open": 45.830002,
+    "High": 45.860001,
+    "Low": 45.07,
+    "Close": 45.560001,
+    "Adj Close": 44.625702,
+    "Volume": 17643700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/24/2019",
+    "Open": 45.759998,
+    "High": 46.349998,
+    "Low": 45.59,
+    "Close": 46.169998,
+    "Adj Close": 45.22319,
+    "Volume": 13425500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/28/2019",
+    "Open": 46.07,
+    "High": 46.25,
+    "Low": 45.580002,
+    "Close": 45.59,
+    "Adj Close": 44.655083,
+    "Volume": 19984600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/29/2019",
+    "Open": 45.389999,
+    "High": 45.68,
+    "Low": 45.130001,
+    "Close": 45.48,
+    "Adj Close": 44.54734,
+    "Volume": 16058800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/30/2019",
+    "Open": 45.689999,
+    "High": 45.849998,
+    "Low": 44.880001,
+    "Close": 45.049999,
+    "Adj Close": 44.126156,
+    "Volume": 13775900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "5/31/2019",
+    "Open": 44.529999,
+    "High": 44.860001,
+    "Low": 44.220001,
+    "Close": 44.369999,
+    "Adj Close": 43.460102,
+    "Volume": 17540500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/3/2019",
+    "Open": 44.240002,
+    "High": 45.110001,
+    "Low": 44.200001,
+    "Close": 44.52,
+    "Adj Close": 43.607029,
+    "Volume": 20172500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/4/2019",
+    "Open": 45.16,
+    "High": 45.759998,
+    "Low": 45.009998,
+    "Close": 45.68,
+    "Adj Close": 44.74324,
+    "Volume": 21082000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/5/2019",
+    "Open": 45.869999,
+    "High": 45.900002,
+    "Low": 45.299999,
+    "Close": 45.860001,
+    "Adj Close": 44.919548,
+    "Volume": 13705400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/6/2019",
+    "Open": 45.740002,
+    "High": 46.189999,
+    "Low": 45.450001,
+    "Close": 45.919998,
+    "Adj Close": 44.978313,
+    "Volume": 16020500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/7/2019",
+    "Open": 45.900002,
+    "High": 46.16,
+    "Low": 45.549999,
+    "Close": 45.630001,
+    "Adj Close": 44.694267,
+    "Volume": 14979900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/10/2019",
+    "Open": 46.060001,
+    "High": 46.810001,
+    "Low": 46.060001,
+    "Close": 46.27,
+    "Adj Close": 45.32114,
+    "Volume": 15242700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/11/2019",
+    "Open": 45.84,
+    "High": 46.459999,
+    "Low": 45.77,
+    "Close": 46.259998,
+    "Adj Close": 45.311344,
+    "Volume": 15078300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/12/2019",
+    "Open": 46.009998,
+    "High": 46.27,
+    "Low": 44.779999,
+    "Close": 44.91,
+    "Adj Close": 43.989029,
+    "Volume": 22463300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/13/2019",
+    "Open": 45.099998,
+    "High": 45.630001,
+    "Low": 44.919998,
+    "Close": 45.290001,
+    "Adj Close": 44.36124,
+    "Volume": 15629400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/14/2019",
+    "Open": 45.310001,
+    "High": 45.790001,
+    "Low": 44.84,
+    "Close": 45.59,
+    "Adj Close": 44.655083,
+    "Volume": 16147500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/17/2019",
+    "Open": 45.580002,
+    "High": 46.02,
+    "Low": 45.139999,
+    "Close": 45.27,
+    "Adj Close": 44.341648,
+    "Volume": 13420400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/18/2019",
+    "Open": 45.25,
+    "High": 46.389999,
+    "Low": 45.060001,
+    "Close": 46.099998,
+    "Adj Close": 45.154625,
+    "Volume": 18611100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/19/2019",
+    "Open": 46.48,
+    "High": 46.75,
+    "Low": 45.630001,
+    "Close": 45.650002,
+    "Adj Close": 44.713856,
+    "Volume": 17787600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/20/2019",
+    "Open": 45.849998,
+    "High": 45.990002,
+    "Low": 45.240002,
+    "Close": 45.860001,
+    "Adj Close": 44.919548,
+    "Volume": 19205200
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/21/2019",
+    "Open": 45.84,
+    "High": 46.889999,
+    "Low": 45.790001,
+    "Close": 46.889999,
+    "Adj Close": 45.928425,
+    "Volume": 39186200
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/24/2019",
+    "Open": 46.549999,
+    "High": 46.689999,
+    "Low": 46.23,
+    "Close": 46.27,
+    "Adj Close": 45.32114,
+    "Volume": 21854400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/25/2019",
+    "Open": 46.130001,
+    "High": 46.529999,
+    "Low": 45.43,
+    "Close": 46.139999,
+    "Adj Close": 45.193806,
+    "Volume": 20814000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/26/2019",
+    "Open": 46.209999,
+    "High": 46.279999,
+    "Low": 45.779999,
+    "Close": 45.799999,
+    "Adj Close": 44.860779,
+    "Volume": 17106800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/27/2019",
+    "Open": 46.220001,
+    "High": 46.529999,
+    "Low": 46.110001,
+    "Close": 46.290001,
+    "Adj Close": 45.340733,
+    "Volume": 13391600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "6/28/2019",
+    "Open": 46.810001,
+    "High": 47.700001,
+    "Low": 46.799999,
+    "Close": 47.32,
+    "Adj Close": 46.349609,
+    "Volume": 31030900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/1/2019",
+    "Open": 47.880001,
+    "High": 48.119999,
+    "Low": 47.400002,
+    "Close": 47.689999,
+    "Adj Close": 46.712021,
+    "Volume": 15122100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/2/2019",
+    "Open": 47.52,
+    "High": 47.799999,
+    "Low": 46.919998,
+    "Close": 47.23,
+    "Adj Close": 46.261452,
+    "Volume": 12107200
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/3/2019",
+    "Open": 47.299999,
+    "High": 47.790001,
+    "Low": 46.98,
+    "Close": 47.66,
+    "Adj Close": 46.682636,
+    "Volume": 10438400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/5/2019",
+    "Open": 48.099998,
+    "High": 48.189999,
+    "Low": 47.669998,
+    "Close": 47.77,
+    "Adj Close": 46.790379,
+    "Volume": 10801600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/8/2019",
+    "Open": 47.400002,
+    "High": 47.990002,
+    "Low": 47.310001,
+    "Close": 47.529999,
+    "Adj Close": 46.555302,
+    "Volume": 13189300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/9/2019",
+    "Open": 47.299999,
+    "High": 47.889999,
+    "Low": 47.209999,
+    "Close": 47.830002,
+    "Adj Close": 46.849152,
+    "Volume": 12595000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/10/2019",
+    "Open": 47.669998,
+    "High": 47.810001,
+    "Low": 47.040001,
+    "Close": 47.150002,
+    "Adj Close": 46.183098,
+    "Volume": 12784900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/11/2019",
+    "Open": 47.209999,
+    "High": 47.580002,
+    "Low": 47.060001,
+    "Close": 47.139999,
+    "Adj Close": 46.173302,
+    "Volume": 19751400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/12/2019",
+    "Open": 47.119999,
+    "High": 47.419998,
+    "Low": 46.919998,
+    "Close": 47.360001,
+    "Adj Close": 46.38879,
+    "Volume": 12792600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/15/2019",
+    "Open": 47.400002,
+    "High": 47.450001,
+    "Low": 46.439999,
+    "Close": 46.709999,
+    "Adj Close": 45.752117,
+    "Volume": 21338400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/16/2019",
+    "Open": 46.720001,
+    "High": 46.970001,
+    "Low": 45.220001,
+    "Close": 45.299999,
+    "Adj Close": 44.371033,
+    "Volume": 37548300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/17/2019",
+    "Open": 45.200001,
+    "High": 45.75,
+    "Low": 45.139999,
+    "Close": 45.209999,
+    "Adj Close": 44.282875,
+    "Volume": 24502100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/18/2019",
+    "Open": 45.220001,
+    "High": 46.02,
+    "Low": 45.189999,
+    "Close": 45.82,
+    "Adj Close": 44.880367,
+    "Volume": 19412500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/19/2019",
+    "Open": 45.959999,
+    "High": 46.41,
+    "Low": 45.860001,
+    "Close": 46.029999,
+    "Adj Close": 45.08606,
+    "Volume": 21847900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/22/2019",
+    "Open": 45.889999,
+    "High": 46.549999,
+    "Low": 45.77,
+    "Close": 46.48,
+    "Adj Close": 45.526833,
+    "Volume": 17972100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/23/2019",
+    "Open": 46.68,
+    "High": 47.59,
+    "Low": 46.66,
+    "Close": 47.200001,
+    "Adj Close": 46.232071,
+    "Volume": 21150200
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/24/2019",
+    "Open": 47.299999,
+    "High": 48.470001,
+    "Low": 47.279999,
+    "Close": 48.450001,
+    "Adj Close": 47.456436,
+    "Volume": 29357200
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/25/2019",
+    "Open": 48.52,
+    "High": 48.740002,
+    "Low": 48.009998,
+    "Close": 48.09,
+    "Adj Close": 47.103817,
+    "Volume": 20562000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/26/2019",
+    "Open": 48.150002,
+    "High": 49.310001,
+    "Low": 48.07,
+    "Close": 49.299999,
+    "Adj Close": 48.289005,
+    "Volume": 21641500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/29/2019",
+    "Open": 49.380001,
+    "High": 49.57,
+    "Low": 48.18,
+    "Close": 48.279999,
+    "Adj Close": 47.289921,
+    "Volume": 19148600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/30/2019",
+    "Open": 48.009998,
+    "High": 48.59,
+    "Low": 47.889999,
+    "Close": 48.549999,
+    "Adj Close": 47.554386,
+    "Volume": 14207000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "7/31/2019",
+    "Open": 48.259998,
+    "High": 48.98,
+    "Low": 48.110001,
+    "Close": 48.41,
+    "Adj Close": 47.417255,
+    "Volume": 23422800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/1/2019",
+    "Open": 48.41,
+    "High": 48.639999,
+    "Low": 46.950001,
+    "Close": 47.060001,
+    "Adj Close": 46.09494,
+    "Volume": 22654400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/2/2019",
+    "Open": 47.110001,
+    "High": 47.610001,
+    "Low": 46.369999,
+    "Close": 47.439999,
+    "Adj Close": 46.467144,
+    "Volume": 20159000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/5/2019",
+    "Open": 46.5,
+    "High": 46.799999,
+    "Low": 45.849998,
+    "Close": 46.139999,
+    "Adj Close": 45.193806,
+    "Volume": 27113500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/6/2019",
+    "Open": 46.610001,
+    "High": 47.029999,
+    "Low": 45.82,
+    "Close": 46.93,
+    "Adj Close": 45.967609,
+    "Volume": 19446100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/7/2019",
+    "Open": 46.07,
+    "High": 46.150002,
+    "Low": 45.23,
+    "Close": 45.810001,
+    "Adj Close": 44.870575,
+    "Volume": 27830000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/8/2019",
+    "Open": 45.689999,
+    "High": 46.639999,
+    "Low": 45.549999,
+    "Close": 46.400002,
+    "Adj Close": 45.960148,
+    "Volume": 20671300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/9/2019",
+    "Open": 46.02,
+    "High": 46.66,
+    "Low": 45.75,
+    "Close": 46.299999,
+    "Adj Close": 45.861095,
+    "Volume": 19786100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/12/2019",
+    "Open": 45.509998,
+    "High": 45.91,
+    "Low": 45.330002,
+    "Close": 45.43,
+    "Adj Close": 44.999344,
+    "Volume": 16460500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/13/2019",
+    "Open": 45.610001,
+    "High": 46.419998,
+    "Low": 45.259998,
+    "Close": 45.959999,
+    "Adj Close": 45.524319,
+    "Volume": 16649100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/14/2019",
+    "Open": 45.02,
+    "High": 45.099998,
+    "Low": 43.939999,
+    "Close": 43.970001,
+    "Adj Close": 43.553185,
+    "Volume": 28786700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/15/2019",
+    "Open": 44.299999,
+    "High": 44.5,
+    "Low": 43.34,
+    "Close": 43.380001,
+    "Adj Close": 42.968777,
+    "Volume": 27900000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/16/2019",
+    "Open": 43.740002,
+    "High": 44.540001,
+    "Low": 43.630001,
+    "Close": 44.389999,
+    "Adj Close": 43.9692,
+    "Volume": 21196600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/19/2019",
+    "Open": 45.130001,
+    "High": 45.470001,
+    "Low": 44.93,
+    "Close": 45.25,
+    "Adj Close": 44.821049,
+    "Volume": 15378100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/20/2019",
+    "Open": 45.040001,
+    "High": 45.040001,
+    "Low": 44.630001,
+    "Close": 44.68,
+    "Adj Close": 44.256454,
+    "Volume": 13345800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/21/2019",
+    "Open": 44.959999,
+    "High": 45.279999,
+    "Low": 44.810001,
+    "Close": 45,
+    "Adj Close": 44.573418,
+    "Volume": 13513700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/22/2019",
+    "Open": 45.330002,
+    "High": 45.830002,
+    "Low": 45.060001,
+    "Close": 45.619999,
+    "Adj Close": 45.187542,
+    "Volume": 14703900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/23/2019",
+    "Open": 45.200001,
+    "High": 45.650002,
+    "Low": 44.09,
+    "Close": 44.419998,
+    "Adj Close": 43.998917,
+    "Volume": 21152500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/26/2019",
+    "Open": 44.709999,
+    "High": 45,
+    "Low": 44.490002,
+    "Close": 44.98,
+    "Adj Close": 44.553608,
+    "Volume": 15973100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/27/2019",
+    "Open": 45.23,
+    "High": 45.330002,
+    "Low": 44.43,
+    "Close": 44.75,
+    "Adj Close": 44.32579,
+    "Volume": 15038200
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/28/2019",
+    "Open": 44.639999,
+    "High": 45.779999,
+    "Low": 44.490002,
+    "Close": 45.470001,
+    "Adj Close": 45.038963,
+    "Volume": 14740000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/29/2019",
+    "Open": 46,
+    "High": 46.490002,
+    "Low": 45.779999,
+    "Close": 46.189999,
+    "Adj Close": 45.752136,
+    "Volume": 16196600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "8/30/2019",
+    "Open": 46.540001,
+    "High": 46.900002,
+    "Low": 46.41,
+    "Close": 46.57,
+    "Adj Close": 46.128536,
+    "Volume": 15250600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/3/2019",
+    "Open": 46.310001,
+    "High": 46.34,
+    "Low": 45.48,
+    "Close": 46.09,
+    "Adj Close": 45.653088,
+    "Volume": 17224200
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/4/2019",
+    "Open": 46.540001,
+    "High": 46.700001,
+    "Low": 46.279999,
+    "Close": 46.5,
+    "Adj Close": 46.0592,
+    "Volume": 17123100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/5/2019",
+    "Open": 47.310001,
+    "High": 48.169998,
+    "Low": 47.299999,
+    "Close": 47.619999,
+    "Adj Close": 47.168583,
+    "Volume": 19243400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/6/2019",
+    "Open": 47.580002,
+    "High": 47.77,
+    "Low": 47.099998,
+    "Close": 47.150002,
+    "Adj Close": 46.703041,
+    "Volume": 18846100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/9/2019",
+    "Open": 47.32,
+    "High": 48.639999,
+    "Low": 46.889999,
+    "Close": 48.41,
+    "Adj Close": 47.951092,
+    "Volume": 27651400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/10/2019",
+    "Open": 48.07,
+    "High": 48.93,
+    "Low": 48.07,
+    "Close": 48.310001,
+    "Adj Close": 47.852043,
+    "Volume": 25822400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/11/2019",
+    "Open": 48.290001,
+    "High": 48.98,
+    "Low": 47.790001,
+    "Close": 48.849998,
+    "Adj Close": 48.386921,
+    "Volume": 19190000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/12/2019",
+    "Open": 48.52,
+    "High": 49.080002,
+    "Low": 48.220001,
+    "Close": 48.650002,
+    "Adj Close": 48.18882,
+    "Volume": 24305900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/13/2019",
+    "Open": 49.009998,
+    "High": 49.360001,
+    "Low": 48.66,
+    "Close": 48.919998,
+    "Adj Close": 48.456257,
+    "Volume": 25142400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/16/2019",
+    "Open": 48.459999,
+    "High": 49,
+    "Low": 48.400002,
+    "Close": 48.98,
+    "Adj Close": 48.51569,
+    "Volume": 17759700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/17/2019",
+    "Open": 48.700001,
+    "High": 48.860001,
+    "Low": 48.310001,
+    "Close": 48.759998,
+    "Adj Close": 48.297775,
+    "Volume": 18346100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/18/2019",
+    "Open": 48.630001,
+    "High": 49.209999,
+    "Low": 48.43,
+    "Close": 48.93,
+    "Adj Close": 48.466164,
+    "Volume": 20511700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/19/2019",
+    "Open": 48.990002,
+    "High": 49.310001,
+    "Low": 48.869999,
+    "Close": 48.91,
+    "Adj Close": 48.446354,
+    "Volume": 16887500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/20/2019",
+    "Open": 49.07,
+    "High": 49.299999,
+    "Low": 48.610001,
+    "Close": 48.630001,
+    "Adj Close": 48.16901,
+    "Volume": 30229400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/23/2019",
+    "Open": 48.32,
+    "High": 49.09,
+    "Low": 48.310001,
+    "Close": 48.959999,
+    "Adj Close": 48.49588,
+    "Volume": 20603400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/24/2019",
+    "Open": 48.98,
+    "High": 49.220001,
+    "Low": 48.470001,
+    "Close": 48.650002,
+    "Adj Close": 48.18882,
+    "Volume": 21629300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/25/2019",
+    "Open": 48.73,
+    "High": 49.540001,
+    "Low": 48.650002,
+    "Close": 49.259998,
+    "Adj Close": 48.793034,
+    "Volume": 21313100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/26/2019",
+    "Open": 49.25,
+    "High": 49.369999,
+    "Low": 48.82,
+    "Close": 48.869999,
+    "Adj Close": 48.406731,
+    "Volume": 19984000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/27/2019",
+    "Open": 50.400002,
+    "High": 51.41,
+    "Low": 50.25,
+    "Close": 50.709999,
+    "Adj Close": 50.22929,
+    "Volume": 59467400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "9/30/2019",
+    "Open": 50.77,
+    "High": 50.849998,
+    "Low": 50.060001,
+    "Close": 50.439999,
+    "Adj Close": 49.961849,
+    "Volume": 26897100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/1/2019",
+    "Open": 50.650002,
+    "High": 50.779999,
+    "Low": 49,
+    "Close": 49.060001,
+    "Adj Close": 48.594933,
+    "Volume": 27249300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/2/2019",
+    "Open": 48.720001,
+    "High": 49.040001,
+    "Low": 48.369999,
+    "Close": 48.470001,
+    "Adj Close": 48.010525,
+    "Volume": 23515900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/3/2019",
+    "Open": 48.299999,
+    "High": 48.509998,
+    "Low": 47.32,
+    "Close": 48.48,
+    "Adj Close": 48.020428,
+    "Volume": 20212200
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/4/2019",
+    "Open": 48.66,
+    "High": 49.25,
+    "Low": 48.529999,
+    "Close": 49.209999,
+    "Adj Close": 48.743507,
+    "Volume": 15779500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/7/2019",
+    "Open": 48.950001,
+    "High": 49.290001,
+    "Low": 48.75,
+    "Close": 48.810001,
+    "Adj Close": 48.347301,
+    "Volume": 15691900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/8/2019",
+    "Open": 48.25,
+    "High": 48.349998,
+    "Low": 47.540001,
+    "Close": 47.82,
+    "Adj Close": 47.366688,
+    "Volume": 19734000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/9/2019",
+    "Open": 48.169998,
+    "High": 48.419998,
+    "Low": 48.080002,
+    "Close": 48.150002,
+    "Adj Close": 47.693558,
+    "Volume": 13467800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/10/2019",
+    "Open": 48.330002,
+    "High": 49.07,
+    "Low": 48.16,
+    "Close": 48.650002,
+    "Adj Close": 48.18882,
+    "Volume": 18267800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/11/2019",
+    "Open": 49.459999,
+    "High": 49.919998,
+    "Low": 49.150002,
+    "Close": 49.209999,
+    "Adj Close": 48.743507,
+    "Volume": 23024600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/14/2019",
+    "Open": 49.09,
+    "High": 49.450001,
+    "Low": 48.98,
+    "Close": 49.27,
+    "Adj Close": 48.80294,
+    "Volume": 16870500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/15/2019",
+    "Open": 49.279999,
+    "High": 51.25,
+    "Low": 48.779999,
+    "Close": 50.110001,
+    "Adj Close": 49.634979,
+    "Volume": 38478400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/16/2019",
+    "Open": 50.040001,
+    "High": 50.279999,
+    "Low": 49.450001,
+    "Close": 49.59,
+    "Adj Close": 49.119907,
+    "Volume": 23728400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/17/2019",
+    "Open": 49.98,
+    "High": 50.169998,
+    "Low": 49.48,
+    "Close": 49.610001,
+    "Adj Close": 49.139717,
+    "Volume": 20560100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/18/2019",
+    "Open": 49.34,
+    "High": 50.220001,
+    "Low": 49.32,
+    "Close": 49.970001,
+    "Adj Close": 49.496307,
+    "Volume": 21199500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/21/2019",
+    "Open": 50.279999,
+    "High": 50.5,
+    "Low": 50.18,
+    "Close": 50.459999,
+    "Adj Close": 49.981659,
+    "Volume": 19409100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/22/2019",
+    "Open": 50.439999,
+    "High": 51.02,
+    "Low": 50.23,
+    "Close": 50.619999,
+    "Adj Close": 50.140144,
+    "Volume": 18526900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/23/2019",
+    "Open": 50.720001,
+    "High": 50.970001,
+    "Low": 50.57,
+    "Close": 50.93,
+    "Adj Close": 50.447205,
+    "Volume": 14173700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/24/2019",
+    "Open": 50.66,
+    "High": 51.200001,
+    "Low": 50.66,
+    "Close": 51.099998,
+    "Adj Close": 50.615593,
+    "Volume": 16695400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/25/2019",
+    "Open": 51.080002,
+    "High": 51.73,
+    "Low": 51,
+    "Close": 51.57,
+    "Adj Close": 51.081139,
+    "Volume": 17433300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/28/2019",
+    "Open": 51.939999,
+    "High": 52.049999,
+    "Low": 51.57,
+    "Close": 51.650002,
+    "Adj Close": 51.160381,
+    "Volume": 23914800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/29/2019",
+    "Open": 51.5,
+    "High": 52.360001,
+    "Low": 51.5,
+    "Close": 52.169998,
+    "Adj Close": 51.675449,
+    "Volume": 21063000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/30/2019",
+    "Open": 51.880001,
+    "High": 52.279999,
+    "Low": 51.619999,
+    "Close": 52.029999,
+    "Adj Close": 51.536777,
+    "Volume": 16155900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "10/31/2019",
+    "Open": 51.77,
+    "High": 52.029999,
+    "Low": 51.150002,
+    "Close": 51.630001,
+    "Adj Close": 51.140572,
+    "Volume": 18814700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/1/2019",
+    "Open": 52.130001,
+    "High": 52.290001,
+    "Low": 51.91,
+    "Close": 52.18,
+    "Adj Close": 51.685356,
+    "Volume": 16359100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/4/2019",
+    "Open": 52.580002,
+    "High": 52.799999,
+    "Low": 52.240002,
+    "Close": 52.720001,
+    "Adj Close": 52.220238,
+    "Volume": 17559900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/5/2019",
+    "Open": 52.740002,
+    "High": 53.5,
+    "Low": 52.740002,
+    "Close": 53.299999,
+    "Adj Close": 52.794739,
+    "Volume": 25965300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/6/2019",
+    "Open": 53.290001,
+    "High": 53.84,
+    "Low": 53.169998,
+    "Close": 53.799999,
+    "Adj Close": 53.289997,
+    "Volume": 22051100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/7/2019",
+    "Open": 53.779999,
+    "High": 54.400002,
+    "Low": 53.779999,
+    "Close": 54,
+    "Adj Close": 54,
+    "Volume": 23452500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/8/2019",
+    "Open": 53.830002,
+    "High": 54.23,
+    "Low": 53.560001,
+    "Close": 54.099998,
+    "Adj Close": 54.099998,
+    "Volume": 14722100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/11/2019",
+    "Open": 53.790001,
+    "High": 54.139999,
+    "Low": 53.73,
+    "Close": 54.049999,
+    "Adj Close": 54.049999,
+    "Volume": 10659400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/12/2019",
+    "Open": 53.75,
+    "High": 54.240002,
+    "Low": 53.619999,
+    "Close": 54.220001,
+    "Adj Close": 54.220001,
+    "Volume": 15187600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/13/2019",
+    "Open": 53.810001,
+    "High": 53.900002,
+    "Low": 53.209999,
+    "Close": 53.290001,
+    "Adj Close": 53.290001,
+    "Volume": 16846800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/14/2019",
+    "Open": 53.220001,
+    "High": 53.560001,
+    "Low": 53.099998,
+    "Close": 53.490002,
+    "Adj Close": 53.490002,
+    "Volume": 16491400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/15/2019",
+    "Open": 53.779999,
+    "High": 53.939999,
+    "Low": 53.43,
+    "Close": 53.799999,
+    "Adj Close": 53.799999,
+    "Volume": 15225300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/18/2019",
+    "Open": 53.84,
+    "High": 54.110001,
+    "Low": 53.650002,
+    "Close": 54,
+    "Adj Close": 54,
+    "Volume": 14374600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/19/2019",
+    "Open": 54.099998,
+    "High": 54.330002,
+    "Low": 53.869999,
+    "Close": 54.029999,
+    "Adj Close": 54.029999,
+    "Volume": 14434100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/20/2019",
+    "Open": 53.73,
+    "High": 53.860001,
+    "Low": 53.25,
+    "Close": 53.540001,
+    "Adj Close": 53.540001,
+    "Volume": 14994700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/21/2019",
+    "Open": 53.84,
+    "High": 53.93,
+    "Low": 53.34,
+    "Close": 53.560001,
+    "Adj Close": 53.560001,
+    "Volume": 16186100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/22/2019",
+    "Open": 53.900002,
+    "High": 54.349998,
+    "Low": 53.810001,
+    "Close": 54.279999,
+    "Adj Close": 54.279999,
+    "Volume": 13823400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/25/2019",
+    "Open": 54.529999,
+    "High": 54.529999,
+    "Low": 54.040001,
+    "Close": 54.209999,
+    "Adj Close": 54.209999,
+    "Volume": 15561000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/26/2019",
+    "Open": 54.110001,
+    "High": 54.119999,
+    "Low": 53.73,
+    "Close": 53.810001,
+    "Adj Close": 53.810001,
+    "Volume": 18078900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/27/2019",
+    "Open": 54.150002,
+    "High": 54.400002,
+    "Low": 54.009998,
+    "Close": 54.34,
+    "Adj Close": 54.34,
+    "Volume": 16352900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "11/29/2019",
+    "Open": 54.07,
+    "High": 54.75,
+    "Low": 54.07,
+    "Close": 54.459999,
+    "Adj Close": 54.459999,
+    "Volume": 10508600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/2/2019",
+    "Open": 54.310001,
+    "High": 54.439999,
+    "Low": 53.549999,
+    "Close": 53.619999,
+    "Adj Close": 53.619999,
+    "Volume": 20252700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/3/2019",
+    "Open": 53.009998,
+    "High": 53.049999,
+    "Low": 52.169998,
+    "Close": 52.580002,
+    "Adj Close": 52.580002,
+    "Volume": 25560700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/4/2019",
+    "Open": 52.599998,
+    "High": 53.48,
+    "Low": 52.540001,
+    "Close": 53.240002,
+    "Adj Close": 53.240002,
+    "Volume": 18867400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/5/2019",
+    "Open": 53.41,
+    "High": 53.529999,
+    "Low": 53.099998,
+    "Close": 53.23,
+    "Adj Close": 53.23,
+    "Volume": 13499700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/6/2019",
+    "Open": 53.860001,
+    "High": 54.41,
+    "Low": 53.689999,
+    "Close": 54.369999,
+    "Adj Close": 54.369999,
+    "Volume": 18325700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/9/2019",
+    "Open": 54.169998,
+    "High": 54.549999,
+    "Low": 53.91,
+    "Close": 53.919998,
+    "Adj Close": 53.919998,
+    "Volume": 15070800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/10/2019",
+    "Open": 53.490002,
+    "High": 53.869999,
+    "Low": 53.380001,
+    "Close": 53.689999,
+    "Adj Close": 53.689999,
+    "Volume": 15959100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/11/2019",
+    "Open": 53.740002,
+    "High": 53.98,
+    "Low": 53.07,
+    "Close": 53.169998,
+    "Adj Close": 53.169998,
+    "Volume": 16834200
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/12/2019",
+    "Open": 53.369999,
+    "High": 54.549999,
+    "Low": 53.099998,
+    "Close": 54.360001,
+    "Adj Close": 54.360001,
+    "Volume": 19119500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/13/2019",
+    "Open": 54.049999,
+    "High": 54.419998,
+    "Low": 53.43,
+    "Close": 53.790001,
+    "Adj Close": 53.790001,
+    "Volume": 19179300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/16/2019",
+    "Open": 54.240002,
+    "High": 54.560001,
+    "Low": 54.220001,
+    "Close": 54.220001,
+    "Adj Close": 54.220001,
+    "Volume": 19793500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/17/2019",
+    "Open": 54.110001,
+    "High": 54.509998,
+    "Low": 53.990002,
+    "Close": 54.34,
+    "Adj Close": 54.34,
+    "Volume": 16723400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/18/2019",
+    "Open": 54.459999,
+    "High": 54.459999,
+    "Low": 53.630001,
+    "Close": 53.669998,
+    "Adj Close": 53.669998,
+    "Volume": 18857000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/19/2019",
+    "Open": 53.740002,
+    "High": 53.830002,
+    "Low": 53.419998,
+    "Close": 53.630001,
+    "Adj Close": 53.630001,
+    "Volume": 18133300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/20/2019",
+    "Open": 54.049999,
+    "High": 54.049999,
+    "Low": 53.07,
+    "Close": 53.330002,
+    "Adj Close": 53.330002,
+    "Volume": 66318000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/23/2019",
+    "Open": 53.34,
+    "High": 54,
+    "Low": 53.25,
+    "Close": 53.810001,
+    "Adj Close": 53.810001,
+    "Volume": 17637700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/24/2019",
+    "Open": 53.950001,
+    "High": 54.040001,
+    "Low": 53.740002,
+    "Close": 53.82,
+    "Adj Close": 53.82,
+    "Volume": 4635500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/26/2019",
+    "Open": 54.049999,
+    "High": 54.389999,
+    "Low": 53.950001,
+    "Close": 54.150002,
+    "Adj Close": 54.150002,
+    "Volume": 12517100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/27/2019",
+    "Open": 54.290001,
+    "High": 54.32,
+    "Low": 53.869999,
+    "Close": 53.919998,
+    "Adj Close": 53.919998,
+    "Volume": 9892000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/30/2019",
+    "Open": 54.169998,
+    "High": 54.259998,
+    "Low": 53.5,
+    "Close": 53.599998,
+    "Adj Close": 53.599998,
+    "Volume": 10900500
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "12/31/2019",
+    "Open": 53.529999,
+    "High": 53.82,
+    "Low": 53.459999,
+    "Close": 53.799999,
+    "Adj Close": 53.799999,
+    "Volume": 12566000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/2/2020",
+    "Open": 53.849998,
+    "High": 54.040001,
+    "Low": 53.509998,
+    "Close": 53.75,
+    "Adj Close": 53.75,
+    "Volume": 16803100
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/3/2020",
+    "Open": 53.110001,
+    "High": 53.619999,
+    "Low": 52.900002,
+    "Close": 53.419998,
+    "Adj Close": 53.419998,
+    "Volume": 15608800
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/6/2020",
+    "Open": 52.740002,
+    "High": 53.200001,
+    "Low": 52.720001,
+    "Close": 53.099998,
+    "Adj Close": 53.099998,
+    "Volume": 13200300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/7/2020",
+    "Open": 53.049999,
+    "High": 53.049999,
+    "Low": 52.470001,
+    "Close": 52.66,
+    "Adj Close": 52.66,
+    "Volume": 13278600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/8/2020",
+    "Open": 52.84,
+    "High": 53.330002,
+    "Low": 52.799999,
+    "Close": 52.82,
+    "Adj Close": 52.82,
+    "Volume": 16585600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/9/2020",
+    "Open": 53.200001,
+    "High": 53.200001,
+    "Low": 52.48,
+    "Close": 52.73,
+    "Adj Close": 52.73,
+    "Volume": 20817400
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/10/2020",
+    "Open": 52.790001,
+    "High": 52.900002,
+    "Low": 52.48,
+    "Close": 52.5,
+    "Adj Close": 52.5,
+    "Volume": 13777600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/13/2020",
+    "Open": 52.5,
+    "High": 52.5,
+    "Low": 51.830002,
+    "Close": 52.110001,
+    "Adj Close": 52.110001,
+    "Volume": 25197600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/14/2020",
+    "Open": 50.23,
+    "High": 50.740002,
+    "Low": 49.25,
+    "Close": 49.299999,
+    "Adj Close": 49.299999,
+    "Volume": 56668300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/15/2020",
+    "Open": 48.830002,
+    "High": 48.84,
+    "Low": 47.98,
+    "Close": 48.32,
+    "Adj Close": 48.32,
+    "Volume": 47148000
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/16/2020",
+    "Open": 48.459999,
+    "High": 49.32,
+    "Low": 47.84,
+    "Close": 49.25,
+    "Adj Close": 49.25,
+    "Volume": 37020200
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/17/2020",
+    "Open": 49.369999,
+    "High": 49.419998,
+    "Low": 48.529999,
+    "Close": 49.18,
+    "Adj Close": 49.18,
+    "Volume": 29669200
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/21/2020",
+    "Open": 49.09,
+    "High": 49.880001,
+    "Low": 48.799999,
+    "Close": 48.939999,
+    "Adj Close": 48.939999,
+    "Volume": 30858300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/22/2020",
+    "Open": 49.029999,
+    "High": 49.09,
+    "Low": 48.290001,
+    "Close": 48.560001,
+    "Adj Close": 48.560001,
+    "Volume": 20367700
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/23/2020",
+    "Open": 48.389999,
+    "High": 48.450001,
+    "Low": 47.98,
+    "Close": 48.220001,
+    "Adj Close": 48.220001,
+    "Volume": 17297900
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/24/2020",
+    "Open": 48.189999,
+    "High": 48.209999,
+    "Low": 47.18,
+    "Close": 47.57,
+    "Adj Close": 47.57,
+    "Volume": 21239600
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/27/2020",
+    "Open": 46.889999,
+    "High": 47.419998,
+    "Low": 46.740002,
+    "Close": 47.099998,
+    "Adj Close": 47.099998,
+    "Volume": 18156200
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/28/2020",
+    "Open": 47.509998,
+    "High": 47.790001,
+    "Low": 47.279999,
+    "Close": 47.369999,
+    "Adj Close": 47.369999,
+    "Volume": 16673300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/29/2020",
+    "Open": 47.419998,
+    "High": 47.900002,
+    "Low": 47.259998,
+    "Close": 47.27,
+    "Adj Close": 47.27,
+    "Volume": 16166300
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/30/2020",
+    "Open": 47.169998,
+    "High": 47.950001,
+    "Low": 47.040001,
+    "Close": 47.91,
+    "Adj Close": 47.91,
+    "Volume": 14760200
+  },
+  {
+    "Symbol": "WFC",
+    "Date": "1/31/2020",
+    "Open": 47.419998,
+    "High": 47.450001,
+    "Low": 46.75,
+    "Close": 46.939999,
+    "Adj Close": 46.939999,
+    "Volume": 23075900
+  }
+]
